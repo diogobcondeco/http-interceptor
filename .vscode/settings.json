@@ -1,0 +1,4 @@
+{
+  "editor.tabSize": 4, // Adjust this to set the number of spaces a tab represents
+  "editor.insertSpaces": true
+}
